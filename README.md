@@ -7,6 +7,12 @@
 
 <br />
 
+## Documentation
+
+- https://cute-tarsal-6a8.notion.site/React-Native-Transition-View-Wiki-1c9c487f59064a1787a70ec157396bf8
+
+<br />
+
 ## Run Project
 
 1. clone repo
